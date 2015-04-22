@@ -3,6 +3,6 @@
 
 (function() {
   'use strict';
-  console.log('\'Hello from coachingconversationscom! ;)');
+  console.log('\'Hello from auriscom! ;)');
 
 }).call(this);

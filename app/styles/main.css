@@ -7357,13 +7357,13 @@ h6 {
   line-height: 1.42857143;
   font-weight: 400;
 }
-#coachingconversations .logo {
+#auris .logo {
   width: 180px;
 }
-#coachingconversations .navbar {
+#auris .navbar {
   z-index: 998 !important;
 }
-#coachingconversations #contact {
+#auris #contact {
   position: fixed;
   top: 0px;
   right: 0px;
@@ -7372,96 +7372,96 @@ h6 {
   z-index: 999 !important;
   border-left: 1px solid #444;
 }
-#coachingconversations #contact #contactform_ok {
+#auris #contact #contactform_ok {
   display: none;
 }
 @media (max-width: 767px) {
-  #coachingconversations #contact {
+  #auris #contact {
     position: relative;
     width: 100%;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  #coachingconversations #contact {
+  #auris #contact {
     position: relative;
     width: 100%;
   }
 }
-#coachingconversations #contact .close-link {
+#auris #contact .close-link {
   margin: 10px;
   color: #fff;
   font-size: 1.5em;
 }
-#coachingconversations #contact h2 {
+#auris #contact h2 {
   font-weight: 700;
   color: #fff;
   padding-bottom: 20px;
 }
-#coachingconversations #contact p {
+#auris #contact p {
   color: #fff;
 }
-#coachingconversations #contact .contactform {
+#auris #contact .contactform {
   padding: 20px;
 }
-#coachingconversations #contact .label {
+#auris #contact .label {
   font-variant: all-small-caps;
   color: #fff;
   margin-top: 20px;
   padding: 0px;
   font-size: 0.8em;
 }
-#coachingconversations #contact .input-group-addon {
+#auris #contact .input-group-addon {
   background-color: #fff;
   border-right: 0px;
 }
-#coachingconversations #contact .input-group-addon-borderless {
+#auris #contact .input-group-addon-borderless {
   border-left: 0px;
 }
-#coachingconversations #contact input {
+#auris #contact input {
   font-size: 0.8em;
 }
-#coachingconversations .btn {
+#auris .btn {
   white-space: normal !important;
 }
-#coachingconversations .thumbnail {
+#auris .thumbnail {
   margin-top: 20px;
   -moz-box-shadow: 2px 2px 15px lightgrey;
   -webkit-box-shadow: 2px 2px 15px lightgrey;
   box-shadow: 2px 2px 15px lightgrey;
 }
-#coachingconversations .thumbnail img {
+#auris .thumbnail img {
   width: 140px;
 }
-#coachingconversations .fa-large {
+#auris .fa-large {
   font-size: 2em;
 }
-#coachingconversations .jumbo {
+#auris .jumbo {
   font-size: 7.5em;
 }
-#coachingconversations .hidden {
+#auris .hidden {
   visibility: hidden;
 }
-#coachingconversations .pros {
+#auris .pros {
   margin-top: 10px !important;
   background-color: #f9f8f8;
   margin: 0px;
   height: 270px;
 }
-#coachingconversations .pros .initial {
+#auris .pros .initial {
   margin: 60px 20px 0px 20px;
   text-align: center;
 }
-#coachingconversations .pros .initial h3 {
+#auris .pros .initial h3 {
   color: #3578f2;
   font-weight: 700;
 }
-#coachingconversations .pros .overlay p {
+#auris .pros .overlay p {
   color: #fff;
   padding: 10px 10px 5px 10px;
   margin-bottom: 0px;
 }
-#coachingconversations #header {
-  background: url("../images/809027_Low.jpg") no-repeat center center scroll;
+#auris #header {
+  background: url("../images/a.jpg") no-repeat center center scroll;
   background-size: cover;
   overflow: hidden;
   width: 100%;
@@ -7470,18 +7470,18 @@ h6 {
   position: relative;
 }
 @media (max-width: 767px) {
-  #coachingconversations #header {
+  #auris #header {
     height: 600px;
   }
-  #coachingconversations #header h1 {
+  #auris #header h1 {
     padding-top: 40px;
     font-size: 2em;
   }
-  #coachingconversations #header h4 {
+  #auris #header h4 {
     font-size: 1em;
   }
 }
-#coachingconversations #header .headerbg {
+#auris #header .headerbg {
   background-color: #444;
   opacity: 0.8;
   filter: alpha(opacity=80);
@@ -7489,87 +7489,87 @@ h6 {
   padding: 10px;
   color: #fff;
 }
-#coachingconversations #header h1 {
+#auris #header h1 {
   color: #FFF !important;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
   opacity: 1;
 }
-#coachingconversations #header h4 {
+#auris #header h4 {
   color: #555 !important;
 }
-#coachingconversations #header a {
+#auris #header a {
   text-transform: uppercase;
   font-variant: all-small-caps;
   font-size: 1em;
   font-weight: 600;
 }
-#coachingconversations #header .headertext {
+#auris #header .headertext {
   padding-top: 200px;
   text-align: left;
 }
 @media (max-width: 767px) {
-  #coachingconversations #header .headertext {
+  #auris #header .headertext {
     padding-top: 40px;
     text-align: center;
   }
-  #coachingconversations #header .headertext p {
+  #auris #header .headertext p {
     padding: 0px 30px 30px 30px;
     margin: 0px;
     font-size: 0.9em;
   }
 }
 @media (max-width: 767px) {
-  #coachingconversations #header .header-cta {
+  #auris #header .header-cta {
     text-align: center;
   }
 }
-#coachingconversations .img-pro img {
+#auris .img-pro img {
   width: 150px;
 }
-#coachingconversations #pros {
+#auris #pros {
   margin-bottom: 20px;
   text-align: center;
 }
-#coachingconversations #pros .row {
+#auris #pros .row {
   padding-bottom: 30px;
 }
-#coachingconversations #pros .blue {
+#auris #pros .blue {
   color: #3578f2;
 }
-#coachingconversations #pros .protxt {
+#auris #pros .protxt {
   font-size: 1.1em;
 }
-#coachingconversations #pros h2 {
+#auris #pros h2 {
   margin-bottom: 0px;
   padding-bottom: 20px;
 }
-#coachingconversations .personquote {
+#auris .personquote {
   padding-bottom: 30px;
   background-color: #dbd9d8;
   position: inherit;
 }
-#coachingconversations .personquote .row {
+#auris .personquote .row {
   padding-top: 30px;
 }
-#coachingconversations .personquote h2,
-#coachingconversations .personquote h3,
-#coachingconversations .personquote h4 {
+#auris .personquote h2,
+#auris .personquote h3,
+#auris .personquote h4 {
   color: #f19106 !important;
 }
-#coachingconversations .personquote ul {
+#auris .personquote ul {
   margin-left: 0px;
   width: 90%;
 }
-#coachingconversations .personquote .imgholder {
+#auris .personquote .imgholder {
   text-align: center;
 }
-#coachingconversations .personquote .img-circle {
+#auris .personquote .img-circle {
   max-width: 200px;
 }
-#coachingconversations .personquote .quote-icon {
+#auris .personquote .quote-icon {
   position: relative;
 }
-#coachingconversations .personquote .quote-icon i {
+#auris .personquote .quote-icon i {
   position: relative;
   top: 0px;
   left: -20px;
@@ -7578,110 +7578,117 @@ h6 {
   filter: alpha(opacity=50);
   /* For IE8 and earlier */
 }
-#coachingconversations .personquote .quote {
+#auris .personquote .quote {
   font-size: 2em;
 }
-#coachingconversations #proces,
-#coachingconversations .propositions {
+#auris #proces,
+#auris .propositions {
   margin-bottom: 20px;
   text-align: center;
 }
-#coachingconversations #proces .row,
-#coachingconversations .propositions .row {
+#auris #proces .row,
+#auris .propositions .row {
   padding-bottom: 30px;
 }
-#coachingconversations #proces h2,
-#coachingconversations .propositions h2 {
+#auris #proces h2,
+#auris .propositions h2 {
   margin-bottom: 0px;
   padding-bottom: 20px;
 }
-#coachingconversations #proces p,
-#coachingconversations .propositions p {
+#auris #proces p,
+#auris .propositions p {
   text-align: left;
 }
-#coachingconversations #proces .center,
-#coachingconversations .propositions .center {
+#auris #proces .center,
+#auris .propositions .center {
   text-align: center;
 }
-#coachingconversations #proces li,
-#coachingconversations .propositions li {
+#auris #proces li,
+#auris .propositions li {
   list-style-type: none;
 }
-#coachingconversations #proces .exampleimg,
-#coachingconversations .propositions .exampleimg {
+#auris #proces .exampleimg,
+#auris .propositions .exampleimg {
   width: 600px;
 }
-#coachingconversations #proces .awareness,
-#coachingconversations .propositions .awareness {
+#auris #proces .awareness,
+#auris .propositions .awareness {
   color: #f19106;
 }
-#coachingconversations #proces .fundamentals,
-#coachingconversations .propositions .fundamentals {
+#auris #proces .fundamentals,
+#auris .propositions .fundamentals {
   color: #3578f2;
 }
-#coachingconversations #proces .intermediate,
-#coachingconversations .propositions .intermediate {
+#auris #proces .intermediate,
+#auris .propositions .intermediate {
   color: #3cb881;
 }
-#coachingconversations #proces .advanced,
-#coachingconversations .propositions .advanced {
+#auris #proces .advanced,
+#auris .propositions .advanced {
   color: #7f348a;
 }
-#coachingconversations #cta2 {
+#auris #cta2 {
+  padding: 30px 0px;
+  color: #fff;
+}
+#auris #cta2 ul {
+  text-align: left;
+}
+#auris .cta {
+  background-color: #3578f2;
+  text-align: center;
   padding: 30px 0px;
 }
-#coachingconversations .cta .bg-levels {
-  background: url("../images/levels.png");
-  background-attachment: fixed;
-  background-position: 50% 0;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 280px;
-  margin: 0 0;
-  width: 100%;
-  position: relative;
+#auris .cta p {
+  color: #fff;
 }
-#coachingconversations #customers {
+#auris .cta h2 {
+  padding-bottom: 20px;
+}
+#auris .cta .row {
+  padding-bottom: 50px;
+}
+#auris #customers {
   background-color: #fff;
   text-align: center;
   padding: 60px 0px 60px;
 }
-#coachingconversations #customers p {
+#auris #customers p {
   color: #555;
 }
-#coachingconversations #customers .row {
+#auris #customers .row {
   vertical-align: middle;
   padding: 0px;
 }
-#coachingconversations #customers .row .cell {
+#auris #customers .row .cell {
   line-height: 100px;
 }
-#coachingconversations #customers .row .cell img {
+#auris #customers .row .cell img {
   width: 60%;
   vertical-align: middle;
   margin: 20px 0;
 }
-#coachingconversations #customers .doon-content {
+#auris #customers .doon-content {
   text-align: center;
 }
-#coachingconversations #statement {
+#auris #statement {
   background-color: #dbd9d8;
 }
-#coachingconversations #coachingconversations-photo-a {
+#auris #auris-photo-a {
   height: 280px;
   min-height: 280px;
   z-index: 900;
   position: relative;
 }
 @media only screen and (max-width: 767px) {
-  #coachingconversations #coachingconversations-photo-a {
+  #auris #auris-photo-a {
     /* phones */
     height: 0px;
     display: none;
   }
 }
-#coachingconversations #coachingconversations-photo-a .photo-a {
-  background: url("../images/bg1.jpg");
+#auris #auris-photo-a .photo-a {
+  background: url("../images/b.jpg");
   background-attachment: fixed;
   background-position: 50% 0;
   background-repeat: no-repeat;
@@ -7691,21 +7698,21 @@ h6 {
   width: 100%;
   position: relative;
 }
-#coachingconversations #coachingconversations-photo-b {
+#auris #auris-photo-b {
   height: 280px;
   min-height: 280px;
   z-index: 900;
   position: relative;
 }
 @media only screen and (max-width: 767px) {
-  #coachingconversations #coachingconversations-photo-b {
+  #auris #auris-photo-b {
     /* phones */
     height: 0px;
     display: none;
   }
 }
-#coachingconversations #coachingconversations-photo-b .photo-a {
-  background: url("../images/bg2.jpg");
+#auris #auris-photo-b .photo-a {
+  background: url("../images/c.jpg");
   background-attachment: fixed;
   background-position: 50% 0;
   background-repeat: no-repeat;
@@ -7716,30 +7723,105 @@ h6 {
   width: 100%;
   position: relative;
 }
-#coachingconversations #dooners {
+#auris #auris-photo-c {
+  height: 280px;
+  min-height: 280px;
+  z-index: 900;
+  position: relative;
+}
+@media only screen and (max-width: 767px) {
+  #auris #auris-photo-c {
+    /* phones */
+    height: 0px;
+    display: none;
+  }
+}
+#auris #auris-photo-c .photo-a {
+  background: url("../images/d.jpg");
+  background-attachment: fixed;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  position: relative;
+}
+#auris #auris-photo-d {
+  height: 280px;
+  min-height: 280px;
+  z-index: 900;
+  position: relative;
+}
+@media only screen and (max-width: 767px) {
+  #auris #auris-photo-d {
+    /* phones */
+    height: 0px;
+    display: none;
+  }
+}
+#auris #auris-photo-d .photo-a {
+  background: url("../images/e.jpg");
+  background-attachment: fixed;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  position: relative;
+}
+#auris #auris-photo-e {
+  height: 280px;
+  min-height: 280px;
+  z-index: 900;
+  position: relative;
+}
+@media only screen and (max-width: 767px) {
+  #auris #auris-photo-e {
+    /* phones */
+    height: 0px;
+    display: none;
+  }
+}
+#auris #auris-photo-e .photo-a {
+  background: url("../images/f.jpg");
+  background-attachment: fixed;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  position: relative;
+}
+#auris #dooners {
   text-align: center;
   padding: 0px 0px 60px 0px;
 }
-#coachingconversations #dooners h2 {
+#auris #dooners h2 {
   padding: 20px 0px;
 }
-#coachingconversations #dooners p {
+#auris #dooners p {
   color: #555;
 }
-#coachingconversations #dooners .row {
+#auris #dooners .row {
   vertical-align: middle;
   padding: 0px;
   text-align: center;
 }
-#coachingconversations #dooners .row .cell {
+#auris #dooners .row .cell {
   line-height: 100px;
 }
-#coachingconversations #dooners .row .cell img {
+#auris #dooners .row .cell img {
   width: 60%;
   vertical-align: middle;
   margin: 20px 0;
 }
-#coachingconversations #dooners .img-circle {
+#auris #dooners .img-circle {
   max-width: 150px;
   max-height: 150px;
   margin-bottom: 20px;

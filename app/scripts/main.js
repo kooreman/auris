@@ -1,1 +1,1 @@
-console.log('Hello from coachingconversations! - let\'s have coffee');
+console.log('Hello from auris! - let\'s have coffee');
