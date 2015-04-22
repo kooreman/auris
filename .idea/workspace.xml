@@ -2,131 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93c113d-90a6-4309-8721-be4f37fbd85d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/809027_Low.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/abrona.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/assetmgmt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/assetmgmt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/basecone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/basecone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/csb_utility_experts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/ctgb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/eyeopen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/frismakers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/goedbezig.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/hendrik_boogaard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/hendrik_boogaard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/ing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/jongeverzekeraars.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/loket_nl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/lookloudandclear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/malmberg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/malmberg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/abrona.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/assetmgmt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/basecone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/csb_utility_experts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/ctgb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/eyeopen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/frismakers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/goedbezig.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/hendrik_boogaard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/hendrik_boogaard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/ing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/jonge-verzekeraars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/loket_nl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/lookloudandclear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/malmberg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/pittest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/spaendonck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/spaendonck_brancheadvies.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/spaendonck_marktconcern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/spaendonck_wissenraet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/talentenacademie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/tuacc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/tvm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/ums_group.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/verbondvanverzekeraars.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/vip_at_work.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/vsprisk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/wegener_media.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/original/woonlinked.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/pittest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/pittest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/spaendonck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/spaendonck_brancheadvies.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/spaendonck_marktconcern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/spaendonck_wissenraet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/talentenacademie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/tuacc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/tvm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/twinfield.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/ums_group.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/verbondvanverzekeraars.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/vsprisk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/wegener_media.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/wolters_kluwer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/customers/woonlinked.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dayinthelife-a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dayinthelife-b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dayinthelife-c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/doon-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_benjo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_benjo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_berry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_berry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_berry_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_hugo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_hugo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_hugo_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_leo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_leo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_lieuwe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_lieuwe_groot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_lieuwe_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_martijn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_martijn_groot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_martijn_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_michel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_michel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_michel_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_rob.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_rob.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_simon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_simon_groot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/dooners/headshot_simon_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/example3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/hugo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/hugo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/lang_en.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/lang_nl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/levels.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo_tmi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/michel_cobben.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coachingconversations.iml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index_nl.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/styles/coachingconversations.less" afterPath="$PROJECT_DIR$/app/styles/auris.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/bower.json" afterPath="$PROJECT_DIR$/test/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/hello.coffee" afterPath="$PROJECT_DIR$/app/scripts/hello.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/hello.js" afterPath="$PROJECT_DIR$/app/scripts/hello.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css.map" afterPath="$PROJECT_DIR$/app/styles/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.less" afterPath="$PROJECT_DIR$/app/styles/main.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sitemap.xml" afterPath="$PROJECT_DIR$/app/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="auris.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,6 +11,7 @@
     <file path="/a.dummy" changelist="a93c113d-90a6-4309-8721-be4f37fbd85d" time="1429645029525" ignored="false" />
     <file path="/index.html" changelist="a93c113d-90a6-4309-8721-be4f37fbd85d" time="1429724750328" ignored="false" />
     <file path="/auris.less" changelist="a93c113d-90a6-4309-8721-be4f37fbd85d" time="1429724428912" ignored="false" />
+    <file path="/CNAME" changelist="a93c113d-90a6-4309-8721-be4f37fbd85d" time="1429725928890" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CNAME" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -221,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.bowerrc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="3" column="141" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -244,31 +122,31 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="56" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1429724434000" expanded="true" signature="146826:146878" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="146904:146928" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147006:147029" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147065:147100" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147132:147156" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147247:147274" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147319:147441" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147469:147482" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147547:147578" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147629:147649" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147718:147740" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147784:147817" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147869:147886" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="147936:147976" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148026:148055" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148106:148142" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148196:148229" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148283:148308" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148414:148419" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148433:148464" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="148508:148628" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="149762:149950" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="150003:150071" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="150118:150175" placeholder="{...}" />
-                <marker date="1429724434000" expanded="true" signature="150227:150459" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="146826:146878" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="146904:146928" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147006:147029" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147065:147100" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147132:147156" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147247:147274" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147319:147441" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147469:147482" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147547:147578" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147629:147649" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147718:147740" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147784:147817" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147869:147886" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="147936:147976" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148026:148055" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148106:148142" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148196:148229" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148283:148308" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148414:148419" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148433:148464" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="148508:148628" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="149762:149950" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="150003:150071" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="150118:150175" placeholder="{...}" />
+                <marker date="1429725697000" expanded="true" signature="150227:150459" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -301,10 +179,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/app/styles/main.less" />
         <option value="$PROJECT_DIR$/app/styles/auris.less" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -665,13 +543,6 @@
         <state line="21" column="40" selection-start="905" selection-end="905" vertical-scroll-proportion="0.48091602" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="57" selection-start="53" selection-end="57" vertical-scroll-proportion="-0.0">
@@ -683,31 +554,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1429724434000" expanded="true" signature="146826:146878" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="146904:146928" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147006:147029" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147065:147100" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147132:147156" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147247:147274" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147319:147441" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147469:147482" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147547:147578" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147629:147649" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147718:147740" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147784:147817" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147869:147886" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="147936:147976" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148026:148055" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148106:148142" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148196:148229" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148283:148308" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148414:148419" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148433:148464" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="148508:148628" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="149762:149950" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="150003:150071" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="150118:150175" placeholder="{...}" />
-            <marker date="1429724434000" expanded="true" signature="150227:150459" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="146826:146878" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="146904:146928" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147006:147029" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147065:147100" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147132:147156" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147247:147274" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147319:147441" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147469:147482" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147547:147578" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147629:147649" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147718:147740" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147784:147817" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147869:147886" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="147936:147976" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148026:148055" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148106:148142" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148196:148229" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148283:148308" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148414:148419" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148433:148464" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="148508:148628" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="149762:149950" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="150003:150071" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="150118:150175" placeholder="{...}" />
+            <marker date="1429725697000" expanded="true" signature="150227:150459" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -735,7 +606,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="141" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
