@@ -17,7 +17,7 @@
     $('#contactform').submit(function(e) {
         e.preventDefault();
         $.ajax({
-            url: '//formspree.io/info@tminederland.nl',
+            url: '//formspree.io/martijn.kooreman@doon.nu',
             method: 'POST',
             data: {
                 'naam': $('#naam').val(),
