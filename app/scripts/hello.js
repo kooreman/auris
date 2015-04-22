@@ -3,6 +3,6 @@
 
 (function() {
   'use strict';
-  console.log('\'Hello from auriscom! ;)');
+  console.log('\'Hello from auris! ;)');
 
 }).call(this);
