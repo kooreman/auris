@@ -7460,6 +7460,19 @@ h6 {
   padding: 10px 10px 5px 10px;
   margin-bottom: 0px;
 }
+#auris .ipad {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}
+@media only screen and (max-width: 767px) {
+  #auris .ipad {
+    /* phones */
+  }
+  #auris .ipad img {
+    width: 100px;
+  }
+}
 #auris #header {
   background: url("../images/a.jpg") no-repeat center center scroll;
   background-size: cover;
@@ -7683,8 +7696,7 @@ h6 {
 @media only screen and (max-width: 767px) {
   #auris #auris-photo-a {
     /* phones */
-    height: 0px;
-    display: none;
+    height: 300px;
   }
 }
 #auris #auris-photo-a .photo-a {
@@ -7707,8 +7719,7 @@ h6 {
 @media only screen and (max-width: 767px) {
   #auris #auris-photo-b {
     /* phones */
-    height: 0px;
-    display: none;
+    height: 300px;
   }
 }
 #auris #auris-photo-b .photo-a {
@@ -7732,8 +7743,7 @@ h6 {
 @media only screen and (max-width: 767px) {
   #auris #auris-photo-c {
     /* phones */
-    height: 0px;
-    display: none;
+    height: 300px;
   }
 }
 #auris #auris-photo-c .photo-a {
@@ -7757,8 +7767,7 @@ h6 {
 @media only screen and (max-width: 767px) {
   #auris #auris-photo-d {
     /* phones */
-    height: 0px;
-    display: none;
+    height: 300px;
   }
 }
 #auris #auris-photo-d .photo-a {
@@ -7782,8 +7791,7 @@ h6 {
 @media only screen and (max-width: 767px) {
   #auris #auris-photo-e {
     /* phones */
-    height: 0px;
-    display: none;
+    height: 300px;
   }
 }
 #auris #auris-photo-e .photo-a {
